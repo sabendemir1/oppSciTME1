@@ -1,0 +1,273 @@
+3
+3
+3
+3
+total 4820
+drwxr-xr-x  38 21210463 21210463    4096 16 janv. 19:03 .
+drwxr-xr-x 941 root     root       36864  3 déc.  12:34 ..
+-rw-r--r--   1 21210463 21210463    1549 20 oct.   2022 5".py
+drwxr-xr-x   3 21210463 21210463    4096  6 févr.  2024 .atom
+-rw-------   1 21210463 21210463    6575 19 nov.  17:44 .bash_history
+-rw-r--r--   1 21210463 21210463      73 19 nov.  16:28 .bashrc
+drwxr-xr-x   2 21210463 21210463    4096 22 sept.  2022 Bureau
+drwx------  70 21210463 21210463    4096 16 janv. 17:50 .cache
+drwx------  24 21210463 21210463    4096 16 janv. 18:29 .config
+drwx------   3 21210463 21210463    4096 22 sept.  2022 .dbus
+-rw-r--r--   1 21210463 21210463     203 22 sept.  2022 Desins_avec_module_gfx.py
+-rw-r--r--   1 21210463 21210463       0 16 janv. 19:02 d.info
+-rw-r--r--   1 21210463 21210463      24 15 oct.  16:26 .dmrc
+drwxr-xr-x   2 21210463 21210463    4096 19 avril  2023 Documents
+drwxr-xr-x   3 21210463 21210463    4096 16 oct.   2023 .dotnet
+drwx------   4 21210463 21210463    4096 27 févr.  2024 .emacs.d
+-rwxr-xr-x   1 21210463 21210463   16688 19 avril  2023 ex1
+-rw-r--r--   1 21210463 21210463    1371 19 avril  2023 ex1.c
+-rw-r--r--   1 21210463 21210463    3181  1 déc.   2022 Filatov_Vadym.py
+drwx------   2 21210463 21210463    4096 22 sept.  2022 .gconf
+drwx------   3 21210463 21210463    4096 16 janv. 18:05 .gnupg
+-rw-------   1 21210463 21210463      38  7 mai    2024 .gnuplot_history
+-rw-------   1 21210463 21210463   29696 16 janv. 17:49 .ICEauthority
+drwxr-xr-x   2 21210463 21210463    4096 22 sept.  2022 Images
+drwxr-xr-x   5 21210463 21210463    4096 22 nov.   2023 .ipython
+drwxr-xr-x   4 21210463 21210463    4096 10 sept. 15:58 .java
+drwxr-xr-x   5 21210463 21210463    4096  3 déc.  16:44 kO6
+-rw-r--r--   1 21210463 21210463  322922 19 nov.  17:00 kO6-debug.log
+drwxr-xr-x   5 21210463 21210463    4096  5 mars   2024 L2S4006
+-rw-------   1 21210463 21210463      20 16 janv. 18:41 .lesshst
+drwx------   3 21210463 21210463    4096 22 sept.  2022 .local
+drwxr-xr-x  13 21210463 21210463    4096 30 janv.  2023 LU1IN002
+drwxr-xr-x  13 21210463 21210463    4096  5 déc.   2023 LU2IN002
+drwxr-xr-x   5 21210463 21210463    4096 13 nov.   2023 LU2IN018
+drwxr-xr-x   6 21210463 21210463    4096  5 déc.   2023 LU2IN019
+drwxr-xr-x   2 21210463 21210463    4096 15 oct.  17:48 LU3IN029
+drwxr-xr-x   2 21210463 21210463    4096  9 oct.  16:25 LU3IN033
+-rw-r--r--   1 21210463 21210463 4169142 24 sept. 16:25 Mars4_5.jar
+drwxr-xr-x   3 21210463 21210463    4096 13 nov.   2023 Modèles
+-rw-r--r--   1 21210463 21210463     566 22 sept.  2022 moyenne_trois.py
+drwx------   4 21210463 21210463    4096 22 sept.  2022 .mozilla
+drwxr-xr-x   2 21210463 21210463    4096 22 sept.  2022 .mrpython-config
+drwxr-xr-x   2 21210463 21210463    4096 22 sept.  2022 Musique
+drwx------   3 21210463 21210463    4096 22 sept.  2022 .nv
+drwxr-xr-x   2 21210463 21210463    4096 12 sept.  2023 .oracle_jre_usage
+-rw-r--r--   1 21210463 21210463     624 22 sept.  2022 perimetre.py
+drwx------   3 21210463 21210463    4096 13 févr.  2023 .pki
+drwxr-xr-x   2 21210463 21210463    4096 22 sept.  2022 Public
+-rwxr-xr-x   1 21210463 21210463    1703 16 janv. 19:02 report.sh
+-rw-r--r--   1 21210463 21210463    6916 23 avril  2024 Reseau.c
+-rw-r--r--   1 21210463 21210463      66 16 janv. 18:42 .selected_editor
+drwx------   2 21210463 21210463    4096 22 sept.  2022 .ssh
+-rw-r--r--   1 21210463 21210463     466  6 mars   2023 stest.c
+drwxr-xr-x   2 21210463 21210463    4096 16 janv. 18:49 system-report
+-rwxr-xr-x   1 21210463 21210463   16640 13 févr.  2023 te
+drwxr-xr-x   4 21210463 21210463    4096 16 janv. 19:03 Téléchargements
+-rwxr-xr-x   1 21210463 21210463   16640  8 févr.  2023 test
+-rwxr-xr-x   1 21210463 21210463   16648  8 févr.  2023 test1
+-rw-r--r--   1 21210463 21210463     346  8 févr.  2023 test1.c
+-rw-r--r--   1 21210463 21210463      20 12 sept.  2023 test57383
+-rw-r--r--   1 21210463 21210463     289  8 févr.  2023 test.c
+-rw-r--r--   1 21210463 21210463      95 19 avril  2023 testEx2.c
+-rw-r--r--   1 21210463 21210463      35 24 sept. 17:25 test.s
+-rw-r--r--   1 21210463 21210463    3017 10 nov.   2022 TME7_Filatov.py
+-rw-r--r--   1 21210463 21210463    2100 17 nov.   2022 TME8.py
+drwx------   2 21210463 21210463    4096  4 nov.  10:37 TMESolo_filatov
+-rw-r--r--   1 21210463 21210463   10240  4 nov.  10:38 tmesolo_filatov.tar
+-rw-r--r--   1 21210463 21210463      33 20 oct.   2022 TME_Vadym_Filatov.py
+-rw-r--r--   1 21210463 21210463     612  4 déc.   2023 .utop-history
+drwxr-xr-x   2 21210463 21210463    4096 22 sept.  2022 Vidéos
+-rw-------   1 21210463 21210463    3449 12 sept.  2023 .viminfo
+drwxr-xr-x   4 21210463 21210463    4096 11 sept.  2023 .vscode
+-rw-------   1 21210463 21210463    2832 16 janv. 17:49 .Xauthority
+-rw-------   1 21210463 21210463    2811 16 janv. 17:49 .xsession-errors
+-rw-------   1 21210463 21210463    2811  3 déc.  15:52 .xsession-errors.old
+total 4820
+drwxr-xr-x  38 21210463 21210463    4096 16 janv. 19:03 .
+drwxr-xr-x 941 root     root       36864  3 déc.  12:34 ..
+-rw-r--r--   1 21210463 21210463    1549 20 oct.   2022 5".py
+drwxr-xr-x   3 21210463 21210463    4096  6 févr.  2024 .atom
+-rw-------   1 21210463 21210463    6575 19 nov.  17:44 .bash_history
+-rw-r--r--   1 21210463 21210463      73 19 nov.  16:28 .bashrc
+drwxr-xr-x   2 21210463 21210463    4096 22 sept.  2022 Bureau
+drwx------  70 21210463 21210463    4096 16 janv. 17:50 .cache
+drwx------  24 21210463 21210463    4096 16 janv. 18:29 .config
+drwx------   3 21210463 21210463    4096 22 sept.  2022 .dbus
+-rw-r--r--   1 21210463 21210463     203 22 sept.  2022 Desins_avec_module_gfx.py
+-rw-r--r--   1 21210463 21210463       0 16 janv. 19:02 d.info
+-rw-r--r--   1 21210463 21210463      24 15 oct.  16:26 .dmrc
+drwxr-xr-x   2 21210463 21210463    4096 19 avril  2023 Documents
+drwxr-xr-x   3 21210463 21210463    4096 16 oct.   2023 .dotnet
+drwx------   4 21210463 21210463    4096 27 févr.  2024 .emacs.d
+-rwxr-xr-x   1 21210463 21210463   16688 19 avril  2023 ex1
+-rw-r--r--   1 21210463 21210463    1371 19 avril  2023 ex1.c
+-rw-r--r--   1 21210463 21210463    3181  1 déc.   2022 Filatov_Vadym.py
+drwx------   2 21210463 21210463    4096 22 sept.  2022 .gconf
+drwx------   3 21210463 21210463    4096 16 janv. 18:05 .gnupg
+-rw-------   1 21210463 21210463      38  7 mai    2024 .gnuplot_history
+-rw-------   1 21210463 21210463   29696 16 janv. 17:49 .ICEauthority
+drwxr-xr-x   2 21210463 21210463    4096 22 sept.  2022 Images
+drwxr-xr-x   5 21210463 21210463    4096 22 nov.   2023 .ipython
+drwxr-xr-x   4 21210463 21210463    4096 10 sept. 15:58 .java
+drwxr-xr-x   5 21210463 21210463    4096  3 déc.  16:44 kO6
+-rw-r--r--   1 21210463 21210463  322922 19 nov.  17:00 kO6-debug.log
+drwxr-xr-x   5 21210463 21210463    4096  5 mars   2024 L2S4006
+-rw-------   1 21210463 21210463      20 16 janv. 18:41 .lesshst
+drwx------   3 21210463 21210463    4096 22 sept.  2022 .local
+drwxr-xr-x  13 21210463 21210463    4096 30 janv.  2023 LU1IN002
+drwxr-xr-x  13 21210463 21210463    4096  5 déc.   2023 LU2IN002
+drwxr-xr-x   5 21210463 21210463    4096 13 nov.   2023 LU2IN018
+drwxr-xr-x   6 21210463 21210463    4096  5 déc.   2023 LU2IN019
+drwxr-xr-x   2 21210463 21210463    4096 15 oct.  17:48 LU3IN029
+drwxr-xr-x   2 21210463 21210463    4096  9 oct.  16:25 LU3IN033
+-rw-r--r--   1 21210463 21210463 4169142 24 sept. 16:25 Mars4_5.jar
+drwxr-xr-x   3 21210463 21210463    4096 13 nov.   2023 Modèles
+-rw-r--r--   1 21210463 21210463     566 22 sept.  2022 moyenne_trois.py
+drwx------   4 21210463 21210463    4096 22 sept.  2022 .mozilla
+drwxr-xr-x   2 21210463 21210463    4096 22 sept.  2022 .mrpython-config
+drwxr-xr-x   2 21210463 21210463    4096 22 sept.  2022 Musique
+drwx------   3 21210463 21210463    4096 22 sept.  2022 .nv
+drwxr-xr-x   2 21210463 21210463    4096 12 sept.  2023 .oracle_jre_usage
+-rw-r--r--   1 21210463 21210463     624 22 sept.  2022 perimetre.py
+drwx------   3 21210463 21210463    4096 13 févr.  2023 .pki
+drwxr-xr-x   2 21210463 21210463    4096 22 sept.  2022 Public
+-rwxr-xr-x   1 21210463 21210463    1703 16 janv. 19:02 report.sh
+-rw-r--r--   1 21210463 21210463    6916 23 avril  2024 Reseau.c
+-rw-r--r--   1 21210463 21210463      66 16 janv. 18:42 .selected_editor
+drwx------   2 21210463 21210463    4096 22 sept.  2022 .ssh
+-rw-r--r--   1 21210463 21210463     466  6 mars   2023 stest.c
+drwxr-xr-x   2 21210463 21210463    4096 16 janv. 18:49 system-report
+-rwxr-xr-x   1 21210463 21210463   16640 13 févr.  2023 te
+drwxr-xr-x   4 21210463 21210463    4096 16 janv. 19:03 Téléchargements
+-rwxr-xr-x   1 21210463 21210463   16640  8 févr.  2023 test
+-rwxr-xr-x   1 21210463 21210463   16648  8 févr.  2023 test1
+-rw-r--r--   1 21210463 21210463     346  8 févr.  2023 test1.c
+-rw-r--r--   1 21210463 21210463      20 12 sept.  2023 test57383
+-rw-r--r--   1 21210463 21210463     289  8 févr.  2023 test.c
+-rw-r--r--   1 21210463 21210463      95 19 avril  2023 testEx2.c
+-rw-r--r--   1 21210463 21210463      35 24 sept. 17:25 test.s
+-rw-r--r--   1 21210463 21210463    3017 10 nov.   2022 TME7_Filatov.py
+-rw-r--r--   1 21210463 21210463    2100 17 nov.   2022 TME8.py
+drwx------   2 21210463 21210463    4096  4 nov.  10:37 TMESolo_filatov
+-rw-r--r--   1 21210463 21210463   10240  4 nov.  10:38 tmesolo_filatov.tar
+-rw-r--r--   1 21210463 21210463      33 20 oct.   2022 TME_Vadym_Filatov.py
+-rw-r--r--   1 21210463 21210463     612  4 déc.   2023 .utop-history
+drwxr-xr-x   2 21210463 21210463    4096 22 sept.  2022 Vidéos
+-rw-------   1 21210463 21210463    3449 12 sept.  2023 .viminfo
+drwxr-xr-x   4 21210463 21210463    4096 11 sept.  2023 .vscode
+-rw-------   1 21210463 21210463    2832 16 janv. 17:49 .Xauthority
+-rw-------   1 21210463 21210463    2811 16 janv. 17:49 .xsession-errors
+-rw-------   1 21210463 21210463    2811  3 déc.  15:52 .xsession-errors.old
+total 4820
+drwxr-xr-x  38 21210463 21210463    4096 16 janv. 19:03 .
+drwxr-xr-x 941 root     root       36864  3 déc.  12:34 ..
+-rw-r--r--   1 21210463 21210463    1549 20 oct.   2022 5".py
+drwxr-xr-x   3 21210463 21210463    4096  6 févr.  2024 .atom
+-rw-------   1 21210463 21210463    6575 19 nov.  17:44 .bash_history
+-rw-r--r--   1 21210463 21210463      73 19 nov.  16:28 .bashrc
+drwxr-xr-x   2 21210463 21210463    4096 22 sept.  2022 Bureau
+drwx------  70 21210463 21210463    4096 16 janv. 17:50 .cache
+drwx------  24 21210463 21210463    4096 16 janv. 18:29 .config
+drwx------   3 21210463 21210463    4096 22 sept.  2022 .dbus
+-rw-r--r--   1 21210463 21210463     203 22 sept.  2022 Desins_avec_module_gfx.py
+-rw-r--r--   1 21210463 21210463       0 16 janv. 19:02 d.info
+-rw-r--r--   1 21210463 21210463      24 15 oct.  16:26 .dmrc
+drwxr-xr-x   2 21210463 21210463    4096 19 avril  2023 Documents
+drwxr-xr-x   3 21210463 21210463    4096 16 oct.   2023 .dotnet
+drwx------   4 21210463 21210463    4096 27 févr.  2024 .emacs.d
+-rwxr-xr-x   1 21210463 21210463   16688 19 avril  2023 ex1
+-rw-r--r--   1 21210463 21210463    1371 19 avril  2023 ex1.c
+-rw-r--r--   1 21210463 21210463    3181  1 déc.   2022 Filatov_Vadym.py
+drwx------   2 21210463 21210463    4096 22 sept.  2022 .gconf
+drwx------   3 21210463 21210463    4096 16 janv. 18:05 .gnupg
+-rw-------   1 21210463 21210463      38  7 mai    2024 .gnuplot_history
+-rw-------   1 21210463 21210463   29696 16 janv. 17:49 .ICEauthority
+drwxr-xr-x   2 21210463 21210463    4096 22 sept.  2022 Images
+drwxr-xr-x   5 21210463 21210463    4096 22 nov.   2023 .ipython
+drwxr-xr-x   4 21210463 21210463    4096 10 sept. 15:58 .java
+drwxr-xr-x   5 21210463 21210463    4096  3 déc.  16:44 kO6
+-rw-r--r--   1 21210463 21210463  322922 19 nov.  17:00 kO6-debug.log
+drwxr-xr-x   5 21210463 21210463    4096  5 mars   2024 L2S4006
+-rw-------   1 21210463 21210463      20 16 janv. 18:41 .lesshst
+drwx------   3 21210463 21210463    4096 22 sept.  2022 .local
+drwxr-xr-x  13 21210463 21210463    4096 30 janv.  2023 LU1IN002
+drwxr-xr-x  13 21210463 21210463    4096  5 déc.   2023 LU2IN002
+drwxr-xr-x   5 21210463 21210463    4096 13 nov.   2023 LU2IN018
+drwxr-xr-x   6 21210463 21210463    4096  5 déc.   2023 LU2IN019
+drwxr-xr-x   2 21210463 21210463    4096 15 oct.  17:48 LU3IN029
+drwxr-xr-x   2 21210463 21210463    4096  9 oct.  16:25 LU3IN033
+-rw-r--r--   1 21210463 21210463 4169142 24 sept. 16:25 Mars4_5.jar
+drwxr-xr-x   3 21210463 21210463    4096 13 nov.   2023 Modèles
+-rw-r--r--   1 21210463 21210463     566 22 sept.  2022 moyenne_trois.py
+drwx------   4 21210463 21210463    4096 22 sept.  2022 .mozilla
+drwxr-xr-x   2 21210463 21210463    4096 22 sept.  2022 .mrpython-config
+drwxr-xr-x   2 21210463 21210463    4096 22 sept.  2022 Musique
+drwx------   3 21210463 21210463    4096 22 sept.  2022 .nv
+drwxr-xr-x   2 21210463 21210463    4096 12 sept.  2023 .oracle_jre_usage
+-rw-r--r--   1 21210463 21210463     624 22 sept.  2022 perimetre.py
+drwx------   3 21210463 21210463    4096 13 févr.  2023 .pki
+drwxr-xr-x   2 21210463 21210463    4096 22 sept.  2022 Public
+-rwxr-xr-x   1 21210463 21210463    1703 16 janv. 19:02 report.sh
+-rw-r--r--   1 21210463 21210463    6916 23 avril  2024 Reseau.c
+-rw-r--r--   1 21210463 21210463      66 16 janv. 18:42 .selected_editor
+drwx------   2 21210463 21210463    4096 22 sept.  2022 .ssh
+-rw-r--r--   1 21210463 21210463     466  6 mars   2023 stest.c
+drwxr-xr-x   2 21210463 21210463    4096 16 janv. 18:49 system-report
+-rwxr-xr-x   1 21210463 21210463   16640 13 févr.  2023 te
+drwxr-xr-x   4 21210463 21210463    4096 16 janv. 19:03 Téléchargements
+-rwxr-xr-x   1 21210463 21210463   16640  8 févr.  2023 test
+-rwxr-xr-x   1 21210463 21210463   16648  8 févr.  2023 test1
+-rw-r--r--   1 21210463 21210463     346  8 févr.  2023 test1.c
+-rw-r--r--   1 21210463 21210463      20 12 sept.  2023 test57383
+-rw-r--r--   1 21210463 21210463     289  8 févr.  2023 test.c
+-rw-r--r--   1 21210463 21210463      95 19 avril  2023 testEx2.c
+-rw-r--r--   1 21210463 21210463      35 24 sept. 17:25 test.s
+-rw-r--r--   1 21210463 21210463    3017 10 nov.   2022 TME7_Filatov.py
+-rw-r--r--   1 21210463 21210463    2100 17 nov.   2022 TME8.py
+drwx------   2 21210463 21210463    4096  4 nov.  10:37 TMESolo_filatov
+-rw-r--r--   1 21210463 21210463   10240  4 nov.  10:38 tmesolo_filatov.tar
+-rw-r--r--   1 21210463 21210463      33 20 oct.   2022 TME_Vadym_Filatov.py
+-rw-r--r--   1 21210463 21210463     612  4 déc.   2023 .utop-history
+drwxr-xr-x   2 21210463 21210463    4096 22 sept.  2022 Vidéos
+-rw-------   1 21210463 21210463    3449 12 sept.  2023 .viminfo
+drwxr-xr-x   4 21210463 21210463    4096 11 sept.  2023 .vscode
+-rw-------   1 21210463 21210463    2832 16 janv. 17:49 .Xauthority
+-rw-------   1 21210463 21210463    2811 16 janv. 17:49 .xsession-errors
+-rw-------   1 21210463 21210463    2811  3 déc.  15:52 .xsession-errors.old
+/users/Etu3/21210463
+1,2G	.
+40K	./Modèles
+4,0K	./Bureau
+23M	./.local
+15M	./Téléchargements
+120K	./.dotnet
+24K	./.atom
+4,0K	./.gconf
+4,7M	./.emacs.d
+100K	./LU3IN029
+12K	./LU3IN033
+36K	./Documents
+4,0K	./Musique
+16K	./.gnupg
+12K	./TMESolo_filatov
+32K	./LU2IN019
+1,9M	./LU2IN002
+1,4M	./kO6
+8,6M	./.vscode
+304K	./LU1IN002
+156K	./.dbus
+4,0K	./Vidéos
+676K	./.java
+68K	./.ipython
+12K	./.oracle_jre_usage
+8,0K	./.mrpython-config
+1016K	./LU2IN018
+4,0K	./Images
+8,5M	./L2S4006
+68K	./.pki
+8,0K	./.nv
+837M	./.cache
+52M	./.config
+24K	./system-report
+4,0K	./Public
+174M	./.mozilla
+4,0K	./.ssh
+1,2G	.
+Disk quotas for user 21210463 (uid 21210463): aucun
+3
